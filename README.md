@@ -1,7 +1,6 @@
 # Crypto Dahsboard
 
-Crypto Dashboard visualizes historical price performance of different cryptocurrencies dollar pairs in a date range
-specified by the user and generates different technical indicators that enable a more thorough price movement analysis to predict it's future action.
+Crypto Dashboard is a web app thatvisualizes historical price performance of different cryptocurrencies dollar pairs in a date range specified by the user and generates different technical indicators that enable a more thorough price movement analysis to predict it's future action.
 
 ## Installation
 
