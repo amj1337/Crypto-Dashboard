@@ -119,3 +119,4 @@ plt.title("Moving average convergence divergence indicator", fontsize = 50)
 st.pyplot(fig5)
 # just testing if it gets updated to github
 print("hello github")
+sdgsdhgdfhjdfjhfk
