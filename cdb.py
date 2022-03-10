@@ -17,7 +17,6 @@ st.sidebar.header("Coin input")
 start = st.sidebar.date_input("From",dt(2017, 1, 1))
 end = st.sidebar.date_input("To",dt.now())
 ticker = st.sidebar.text_input("Coin ticker","BTC")
-#pair = st.sidebar.text_input("USD for Dollar or the coin's ticker for other currencies pairing","USD")
 
 #Coin Data
 def coin_data() :
