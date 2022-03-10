@@ -4,7 +4,7 @@ Crypto Dashboard is a web app that visualizes historical price performance of di
 
 ## Installation
 
-Make sure to have all the following python packages installed : pandas,matplotlib,streamlit,quandl,datetime.
+Make sure to have all the following python packages installed : **pandas,matplotlib,streamlit,quandl,datetime**
 
 Installation command for Anaconda prompt :
 ```bash
@@ -21,7 +21,7 @@ In the command prompt type the following :
 ```bash
 streamlit run "The codeFile.py directory"
 ```
-###### example of codeFile.py directory ("c:/Users/Amj/Desktop/Crypto DB/cdb.py")
+**example of codeFile.py directory ("c:/Users/Amj/Desktop/Crypto DB/cdb.py")**
 
 ## Contributing
 Pull requests are welcome for any change.
