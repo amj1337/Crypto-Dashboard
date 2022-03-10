@@ -117,4 +117,5 @@ ax5.plot(signal_line, lw = 3 , color = "deepskyblue", label = "Signal line" , al
 plt.legend(loc = "center left", bbox_to_anchor=(1.0, 0.5), fontsize = 20)
 plt.title("Moving average convergence divergence indicator", fontsize = 50)
 st.pyplot(fig5)
-
+# just testing if it gets updated to github
+print("hello github")
