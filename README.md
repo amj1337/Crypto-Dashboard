@@ -4,7 +4,7 @@ Crypto Dashboard is a web app that visualizes historical price performance of di
 
 ## Installation
 
-Make sure to have all the following packages installed : pandas,matplotlib,streamlit,quandl,datetime.
+Make sure to have all the following python packages installed : pandas,matplotlib,streamlit,quandl,datetime.
 
 Installation command for Anaconda prompt :
 ```bash
