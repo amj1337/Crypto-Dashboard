@@ -21,7 +21,7 @@ In the command prompt type the following :
 ```bash
 streamlit run "The codeFile.py directory"
 ```
-**example of codeFile.py directory ("c:/Users/Amj/Desktop/Crypto DB/cdb.py")**
+**_example of codeFile.py directory ("c:/Users/Amj/Desktop/Crypto DB/cdb.py")_**
 
 ## Contributing
 Pull requests are welcome for any change.
